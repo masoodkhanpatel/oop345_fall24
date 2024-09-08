@@ -1,0 +1,10 @@
+# Ignore all files
+*
+
+# But don't ignore these directories (so we can unignore files inside them)
+!*/
+
+# Unignore .cpp and .txt files
+!*.cpp
+!*.txt
+!*.gitignore
