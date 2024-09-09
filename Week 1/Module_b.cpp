@@ -1,14 +1,15 @@
-//// External Linkage
+//// Internal Linkage
 //// Module_b.cpp
 //
 //#include <iostream>
+//
 //void display();
-//int share_me = 0; // variable definition
+//static int local = 2;
 //
 //int main()
 //{
 //    display();
 //    display();
-//    std::cout << "Module B: share_me at " << &share_me << '\n';
-//    std::cout << "Module B: share_me is " << share_me++ << '\n';
+//    std::cout << "Module B: local at " << &local << '\n';
+//    std::cout << "Module B: local is " << local++ << '\n';
 //}
