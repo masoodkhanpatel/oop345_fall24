@@ -8,9 +8,9 @@
 //{
 //    int a[] = { 1, 2, 4, 5, 8, 9, 12, 13, 16, 18, 22 };
 //
-//    int n = std::count_if(a, a + 11, [](int i)
+//    int n = std::count_if(a, a + 11, [](int i) // count_if(0,12,func)
 //        {
-//            return !(i & 1);
+//            return !(i & 1); // true if even
 //        });
 //
 //    std::cout << "Even numbers = " << n << std::endl;
