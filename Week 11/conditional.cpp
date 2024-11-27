@@ -1,9 +1,9 @@
-#ifndef ABC
-#define ABC
-
-class Conditional
-{
-}
-
-
-#endif
+//#ifndef ABC
+//#define ABC
+//
+//class Conditional
+//{
+//}
+//
+//
+//#endif

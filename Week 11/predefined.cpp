@@ -1,25 +1,25 @@
-#include "conditional.cpp"
-
-#ifndef ABC
-#define ABC
-
-class Conditional
-{
-}
-
-
-#endif
-
-#include "conditional.cpp"
-
-#ifndef ABC // false
-#define ABC
-
-class Conditional
-{
-}
-
-#endif
+//#include "conditional.cpp"
+//
+//#ifndef ABC
+//#define ABC
+//
+//class Conditional
+//{
+//}
+//
+//
+//#endif
+//
+//#include "conditional.cpp"
+//
+//#ifndef ABC // false
+//#define ABC
+//
+//class Conditional
+//{
+//}
+//
+//#endif
 
 ////#include <iostream>
 //
